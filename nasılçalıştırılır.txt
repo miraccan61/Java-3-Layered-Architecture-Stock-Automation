@@ -1,0 +1,4 @@
+hocam projeyi çalıştırmadan önce bin klasöründeki 3 tane jar dosyasını
+build pathten add external jar ile projeye dahil etmeniz gerekiyor.
+Veritabanımızı size atamadığımız için ilk başta personeli ve yetkilerini veritabanına girip sizin oluşturmanız gerekiyor. 
+altta verdiğim sql kodlarıyla veritabanını oluşturup çalıştırabilirsiniz.
